@@ -461,7 +461,7 @@ CPU_Core_Architecture
 
 ## 📜 License
 
-This repository is licensed under the [MIT License](LICENSE).
+
 ```
 
 ---
@@ -674,11 +674,6 @@ Contributions are welcome!
 If you’d like to improve the documentation, add examples, or extend the concepts, please fork the repository and submit a pull request.
 
 ---
-
-## 📜 License
-
-This repository is licensed under the [MIT License](LICENSE).  
-You are free to use, modify, and distribute this work with attribution.
 
 ---
 
@@ -1835,8 +1830,6 @@ If you’d like to improve the documentation, add examples, or extend the concep
 
 # 📜 License
 
-This repository is licensed under the [MIT License](LICENSE).  
-You are free to use, modify, and distribute this work with attribution.
 
 ---
 
