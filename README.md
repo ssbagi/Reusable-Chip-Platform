@@ -14,10 +14,18 @@ A pragmatic, Git-based methodology to streamline chip execution across pre-silic
 
 ---
 
+## Reusable Chip Blocks for Platfrom
+Importance of the Redesign of the Chips or Blocks. 
+
+<img width="977" height="670" alt="Screenshot 2026-04-26 144128" src="https://github.com/user-attachments/assets/9564c02a-b00c-4497-8910-55e4cb43230a" />
+
+<img width="1110" height="532" alt="Screenshot 2026-04-26 144004" src="https://github.com/user-attachments/assets/4f076841-a6c9-43d3-94ab-cfa7fedeefcc" />
+
+
 ## Reason for the Setup
 
 In tight tapeout guidelines, constriants, tight timelines and to have proper Setup and communication between teams. A Basic structure which might improve the things and stuff. 
-Addition of the Reason for the ASIC flow setup. At for 1 to 3 Year experience knowing the basic file structure and understanding things is better. 
+Addition of the Reason for the ASIC flow setup. At for 1 to 3 Year experience knowing the basic file structure and understanding things is better. The young engineers can grow with reused designs. 
 
 <img width="660" height="1434" alt="IMG_0657" src="https://github.com/user-attachments/assets/cfa6fe82-6360-4c36-9cd7-c4abd32f1022" />
 
